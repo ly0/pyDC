@@ -1,0 +1,2 @@
+# pyDC
+Python distributed crawler
